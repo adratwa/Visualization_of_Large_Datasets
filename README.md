@@ -6,7 +6,4 @@ This repository contains of Jupyter notebooks that covers basic and advanced iss
 2) Roulade projections using t-SNE and MDS
 3) f-MNIST and MNIST visualizations using t-SNE, UMAP, and LargeVis
 4) Neural Network hidden layers activations embedding
-## Notebooks
-
-Lab2_pca_kernelpca.ipynb
 
